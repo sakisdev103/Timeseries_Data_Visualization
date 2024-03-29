@@ -10,7 +10,6 @@ import Main from "./components/Task.vue";
 export default {
   name: "App",
   components: {
-    Navbar,
     Main,
   },
 };
